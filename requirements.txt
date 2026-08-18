@@ -1,0 +1,4 @@
+customtkinter
+bcrypt
+scapy
+requests
